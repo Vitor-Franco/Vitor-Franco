@@ -11,20 +11,11 @@ Me interessei por programação na escola técnica em 2018 e hoje estudo para me
 
 <h2>🔥 GitHub Profile Stats</h2>
 <div>
-  <div style="display: flex;">
-  <div style="width: 50%;">
+  
+  ![Vitor-Franco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Franco&theme=tokyonight&layout=compact)
 
   ![Vitor-Franco's github stats](https://github-readme-stats.vercel.app/api?username=Vitor-Franco&show_icons=true&theme=tokyonight)
-  </div>
-  
-  <div style="width: 50%;">
 
-  ![Vitor-Franco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Franco&theme=tokyonight&layout=compact)
-  </div>
-  
-  </div>
 
-  <div style="width: 100%; display: flex; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Franco&theme=tokyonight" alt="mystreak"/>
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Franco&theme=tokyonight" alt="mystreak"/>
 </div>
