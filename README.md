@@ -1,7 +1,6 @@
 # Hello World. I'm Vitor Franco :ocean:
 
 Me interessei por programação na escola técnica em 2018 e hoje estudo para me tornar um Desenvolvedor Full Stack.
-<br/>Estudante de Blockchain, React Native, AWS e Java.
 
 <h2>🚀 Contact</h2>
 
